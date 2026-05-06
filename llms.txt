@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghalta-w-khadet-wa2taha/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Ghalta W Khadet Wa2taha](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Ghalta W Khadet Wa2taha](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
