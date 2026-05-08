@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghalta W Khadet Wa2taha
+
+This log tracks the cryptographic history and versioning for the song **Ghalta W Khadet Wa2taha** (ghalta-w-khadet-wa2taha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:35:22.034771 | `v1` | `0d1547095e08cf08e852984090da86229d989814a1652ee58e30725dde906c46` | `af9096f529b5338521c72e9c3f33561009654cb48e101c3648c0f02331d4f245` | `2026-05-08_ghalta-w-khadet-wa2taha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
